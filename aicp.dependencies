@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "AICP/device_htc_hima-common",
+    "target_path": "device/htc/hima-common",
+    "branch": "lp5.1"
+  }
+]
