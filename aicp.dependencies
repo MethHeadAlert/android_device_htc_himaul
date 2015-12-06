@@ -5,9 +5,9 @@
     "branch": "mm6.0"
   },
   {
-    "repository": "CyanogenMod/android_kernel_htc_msm8994",
+    "repository": "AICP/kernel_htc_msm8994",
     "target_path": "kernel/htc/msm8994",
-    "branch": "cm-13.0"
+    "branch": "mm6.0"
   },
   {
     "repository": "CyanogenMod/android_external_sony_boringssl-compat",
