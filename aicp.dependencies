@@ -17,6 +17,6 @@
   {
    "repository":  "MethHeadAlert/proprietary_vendor_htc",
    "target_path": "vendor/htc",
-   "branch":      "mm6.0"
+   "branch":      "cm-13.0"
   }
 ]
